@@ -7,11 +7,12 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 ### Categories
 - Clock/Alarm
 - [Browser](#browsers)
-- QR Scanner/Maker
+- [QR Scanner/Maker](/apps/qr-scanner.md)
 
 ## Browsers
 
 ### [Brave](apps/brave.md)
 
 ### [Vanadium](https://grapheneos.org/features#vanadium)
-##[ QR Scanner/Maker](https://github.com/randomwithnoname/android-apps/blob/main/apps/qr-scanner.md)
+
+### [ QR Scanner/Maker](https://github.com/randomwithnoname/android-apps/blob/main/apps/qr-scanner.md)
