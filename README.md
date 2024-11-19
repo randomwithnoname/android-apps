@@ -14,8 +14,4 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 ### [Brave](apps/brave.md)
 
 ### [Vanadium](https://grapheneos.org/features#vanadium)
-## QR Scanner/Maker
-
-### Binary Eye
-- [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
-- [x] [GitHub](https://github.com/markusfisch/BinaryEye)
+##[ QR Scanner/Maker](https://github.com/randomwithnoname/android-apps/blob/main/apps/qr-scanner.md)
