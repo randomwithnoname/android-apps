@@ -11,16 +11,9 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 ## Browsers
 
-### Brave
+### [Brave](apps/brave.md)
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
-- [x] [GitHub](https://github.com/brave/brave-browser)
-- [x] [Official site](https://brave.com/)
-
-### Vanadium
-
-- [x] GrapheneOS App Store
-- [x] [GitHub](https://github.com/GrapheneOS/Vanadium)
+### [Vanadium](https://grapheneos.org/features#vanadium)
 ## QR Scanner/Maker
 
 ### Binary Eye
