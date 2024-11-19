@@ -2,7 +2,7 @@
 
 List of high quality Android apps which respect user privacy and autonomy. For the GrapheneOS community. See [contributing page](CONTRIBUTING.md) to contribute.
 
-🟩 = open core source
+🟩 = open source
 
 🟨 = open core (proprietary dependencies but core app is open source)
 
