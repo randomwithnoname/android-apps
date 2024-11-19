@@ -25,16 +25,13 @@ I count source available apps as closed source. They don't help user freedom as 
 
 ## Browsers
 
-- [Brave](apps/brave.md)  🟨
+- [Brave](apps/brave.md)  🟨 [🅿](https://play.google.com/store/apps/details?id=com.brave.browser)
 
 - [Vanadium](https://grapheneos.org/features#vanadium) 🟩
 
 ## Clock/Alarm
-### [Clock You](https://github.com/you-apps/ClockYou) 🟩 [🅶 ](https://github.com/you-apps/ClockYou)
-
-- [x] [GitHub](https://github.com/you-apps/ClockYou)
-- [x] [Official site](https://you-apps.net/)
+- Clock You 🟩 [🅶 ](https://github.com/you-apps/ClockYou)
 
 
 ## QR Scanner/Maker
-- [Binary Eye](/apps/qr-scanner.md) 🟩
+- [Binary Eye](/apps/qr-scanner.md) 🟩 [🅿](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) [🅶](https://github.com/markusfisch/BinaryEye)
