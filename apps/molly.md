@@ -5,7 +5,7 @@ The fix has been [submitted](https://github.com/signalapp/Signal-Android/pull/13
 ### [Molly](https://github.com/randomwithnoname/android-apps/blob/main/apps/molly.md)
 
 
-- [x] [Accrescent](https://accrescent.app/app/im.molly.app)
-- [x] [GitHub](https://github.com/mollyim/mollyim-android)
-- [x] [Official site](https://molly.im/)
+-  [Accrescent](https://accrescent.app/app/im.molly.app)
+-  [GitHub](https://github.com/mollyim/mollyim-android)
+-  [Official site](https://molly.im/)
 
