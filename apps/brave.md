@@ -7,3 +7,7 @@ Brave [uses](https://github.com/brave/brave-core/pull/18543) the anti-competitiv
 GrapheneOS unsuccessfully tried to convince them to officially support not having Google Play without success so they didn't ask about this.
 
 Despite this, Brave remains the best option for GrapheneOS users when Vanadium doesn't meet their needs (doesn't currently have as good content filtering as Brave). Brave is far from perfect but certainly much less bad than most other options, especially the Gecko-based ones (Firefox, etc.).
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
+- [x] [GitHub](https://github.com/brave/brave-browser)
+- [x] [Official site](https://brave.com/)
