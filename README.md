@@ -11,16 +11,16 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 ## Browsers
 
-- [Brave](apps/brave.md)
+- [Brave](apps/brave.md)  🟨
 
-- [Vanadium](https://grapheneos.org/features#vanadium)
+- [Vanadium](https://grapheneos.org/features#vanadium) 🟩
 
 ## Clock/Alarm
-### Clock You
+### Clock You 🟩
 
 - [x] [GitHub](https://github.com/you-apps/ClockYou)
 - [x] [Official site](https://you-apps.net/)
 
 
 ## QR Scanner/Maker
-- [Binary Eye](/apps/qr-scanner.md)
+- [Binary Eye](/apps/qr-scanner.md) 🟩
