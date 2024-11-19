@@ -11,8 +11,9 @@ So people don't get upset, I'll mark open source apps with a 🟩, open core app
 
 ## Browsers
 
-### [Brave](apps/brave.md)
+- [Brave](apps/brave.md)
 
-### [Vanadium](https://grapheneos.org/features#vanadium)
+- [Vanadium](https://grapheneos.org/features#vanadium)
 
-## [QR Scanner/Maker](/apps/qr-scanner.md)
+## QR Scanner/Maker
+- [Binary Eye](/apps/qr-scanner.md)
