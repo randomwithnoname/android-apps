@@ -129,7 +129,7 @@ I count source available apps as closed source. They don't help user freedom as 
 - [QUIK](https://github.com/octoshrimpy/quik)
 
 ## QR Scanner/Maker
-- [Binary Eye](/apps/qr-scanner.md) 🟩 [🅿](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) [🅶](https://github.com/markusfisch/BinaryEye
+- [Binary Eye](/apps/qr-scanner.md) 🟩 [🅿](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) [🅶](https://github.com/markusfisch/BinaryEye)
 
 ## Voice Recognition
 - [Transcribro](https://github.com/soupslurpr/Transcribro)
