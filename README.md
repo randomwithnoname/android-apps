@@ -124,7 +124,7 @@ I count source available apps as closed source. They don't help user freedom as 
 - [Molly](https://github.com/mollyim/mollyim-android)
 - [SimpleX](https://github.com/simplex-chat/simplex-chat) [DCL Warning!](https://grapheneos.org/features#exploit-protection)
 
-## [SMS/RCS/MMS](./apps/sms.md))
+## [SMS/RCS/MMS](./apps/sms.md)
 - Google Messages
 - [QUIK](https://github.com/octoshrimpy/quik)
 
