@@ -19,10 +19,15 @@ I count source available apps as closed source. They don't help user freedom as 
 
 
 ### Categories
+- [App Stores](#appstores)
 - [Browser](#browsers)
--[Clock/Alarm](#clockalarm)
+- [Clock/Alarm](#clockalarm)
 - [QR Scanner/Maker](/apps/qr-scanner.md)
-
+## App Stores
+- GrapheneOS App Store
+- Accrescent
+- Play Store
+- Obtainium
 ## Browsers
 
 - [Brave](apps/brave.md)  🟨 [🅿](https://play.google.com/store/apps/details?id=com.brave.browser)
