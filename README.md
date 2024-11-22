@@ -19,7 +19,7 @@ I count source available apps as closed source. They don't help user freedom as 
 
 
 ### Categories
-- [Clock/Alarm](#clock/alarm)
+- [Clock/Alarm](#clockalarm)
 - [Browser](#browsers)
 - [QR Scanner/Maker](/apps/qr-scanner.md)
 
