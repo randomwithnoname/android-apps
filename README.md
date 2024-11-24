@@ -97,7 +97,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ## Keyboard
 - [Florisboard](https://github.com/florisboard/florisboard) 🟩
-- [FUTO Keyboard](https://github.com/futo-org/android-keyboard)
+- [FUTO Keyboard](https://github.com/futo-org/android-keyboard) 🟥
 - GBoard 🟥
 
 ## Music
@@ -118,8 +118,8 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) 🟩
 
 ## Secure Messaging
-- [Signal](https://github.com/mollyim/mollyim-android)
-- [Molly](https://github.com/mollyim/mollyim-android)
+- [Signal](https://github.com/mollyim/mollyim-android) 🟨
+- [Molly](https://github.com/mollyim/mollyim-android) 🟩/🟨
 - [SimpleX](https://github.com/simplex-chat/simplex-chat) 🟩 [DCL Warning!](https://grapheneos.org/features#exploit-protection)
 
 ## [SMS/RCS/MMS](./apps/sms.md)
