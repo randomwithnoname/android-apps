@@ -29,7 +29,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [File Synchronization](#file-synchronization)
 - [Flashlight](#flashlight)
 - [Gallery](#gallery)
-- [Image Manipulation](#image-manipulation)
+- [Image Manipulation](https://github.com/randomwithnoname/android-apps/blob/main/apps/image-manipulation.md)
 - [Keyboard](https://github.com/randomwithnoname/android-apps/blob/main/apps/keyboard.md)
 - [Music](#music)
 - [Notes](#notes)
@@ -91,9 +91,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [Gallery](https://github.com/IacobIonut01/Gallery) 🟩
 - [Aves](https://github.com/deckerst/aves) 🟩
 - Google Photos 🟥
-
-## Image Manipulation
-- Markup 🟥
 
 ## Music
 - [Auxio](https://github.com/OxygenCobalt/Auxio) 🟩
