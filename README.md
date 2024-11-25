@@ -36,7 +36,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [Password Manager](#password-manager)
 - [Podcast](#podcast)
 - [Secure Messaging](https://github.com/randomwithnoname/android-apps/blob/main/apps/secure-messaging.md)
-- [SMS/RCS/MMS](#smsrcsmms)
+- [SMS/RCS/MMS](./apps/sms.md)
 - [QR Scanner/Maker](/apps/qr-scanner.md)
 - [Voice Recognition](#voice-recognition)
 - [VPN](#vpn)
