@@ -30,7 +30,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [Flashlight](#flashlight)
 - [Gallery](#gallery)
 - [Image Manipulation](#image-manipulation)
-- [Keyboard](#keyboard)
+- [Keyboard](https://github.com/randomwithnoname/android-apps/blob/main/apps/keyboard.md)
 - [Music](#music)
 - [Notes](#notes)
 - [Password Manager](#password-manager)
@@ -94,11 +94,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ## Image Manipulation
 - Markup 🟥
-
-## Keyboard
-- [Florisboard](https://github.com/florisboard/florisboard) 🟩
-- [FUTO Keyboard](https://github.com/futo-org/android-keyboard) 🟥
-- GBoard 🟥
 
 ## Music
 - [Auxio](https://github.com/OxygenCobalt/Auxio) 🟩
