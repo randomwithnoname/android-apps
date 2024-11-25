@@ -29,13 +29,13 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [File Synchronization](#file-synchronization)
 - [Flashlight](#flashlight)
 - [Gallery](#gallery)
-- [Image Manipulation](https://github.com/randomwithnoname/android-apps/blob/main/apps/image-manipulation.md)
+- [Image Manipulation](/apps/image-manipulation.md)
 - [Keyboard](https://github.com/randomwithnoname/android-apps/blob/main/apps/keyboard.md)
 - [Music](#music)
 - [Notes](#notes)
 - [Password Manager](#password-manager)
 - [Podcast](#podcast)
-- [Secure Messaging](#secure-messaging)
+- [Secure Messaging](https://github.com/randomwithnoname/android-apps/blob/main/apps/secure-messaging.md)
 - [SMS/RCS/MMS](#smsrcsmms)
 - [QR Scanner/Maker](/apps/qr-scanner.md)
 - [Voice Recognition](#voice-recognition)
@@ -108,11 +108,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ## Podcast
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) 🟩
-
-## Secure Messaging
-- [Signal](https://github.com/mollyim/mollyim-android) 🟨
-- [Molly](https://github.com/mollyim/mollyim-android) 🟩/🟨
-- [SimpleX](https://github.com/simplex-chat/simplex-chat) 🟩 [DCL Warning!](https://grapheneos.org/features#exploit-protection)
 
 ## [SMS/RCS/MMS](./apps/sms.md)
 - Google Messages 🟥
