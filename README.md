@@ -109,7 +109,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 ## Podcast
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) 🟩
 
-## [SMS/RCS/MMS](./apps/sms.md)
+## [SMS/MMS, RCS](./apps/sms.md)
 - Google Messages 🟥
 - [QUIK](https://github.com/octoshrimpy/quik) 🟩
 
