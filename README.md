@@ -18,7 +18,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ### Categories
 - [App Stores](#app-stores)
-- [Browser](#browsers)
+- [Browser](./apps/browser.md)
 - [Calculator](#calculator)
 - [Calendar](#calendar)
 - [Camera](#camera)
@@ -47,12 +47,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - Accrescent 🟩
 - Play Store 🟥
 - Obtainium 🟩
-
-## Browsers
-
-### [Brave](apps/brave.md)  🟨 
-- [x] [Play Store](https://play.google.com/store/apps/details?id=com.brave.browser)
-- [Vanadium](https://grapheneos.org/features#vanadium)  🟩 [🅶](https://github.com/GrapheneOS/Vanadium)
 
 ## Calculator
 - [NumberHub](https://github.com/Myzel394/NumberHub) 🟩
