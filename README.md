@@ -36,7 +36,7 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 - [Password Manager](#password-manager)
 - [Podcast](#podcast)
 - [Secure Messaging](https://github.com/randomwithnoname/android-apps/blob/main/apps/secure-messaging.md)
-- [SMS/RCS/MMS](./apps/sms.md)
+- [SMS/MMS & RCS](./apps/sms.md)
 - [QR Scanner/Maker](/apps/qr-scanner.md)
 - [Voice Recognition](#voice-recognition)
 - [VPN](#vpn)
@@ -108,10 +108,6 @@ List of high quality Android apps which respect user privacy and autonomy. For t
 
 ## Podcast
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) 🟩
-
-## [SMS/MMS, RCS](./apps/sms.md)
-- Google Messages 🟥
-- [QUIK](https://github.com/octoshrimpy/quik) 🟩
 
 ## QR Scanner/Maker
 - [Binary Eye](/apps/qr-scanner.md) 🟩 [🅿](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) [🅶](https://github.com/markusfisch/BinaryEye)
