@@ -23,7 +23,7 @@ List of high quality Android apps which respect user autonomy and privacy. For t
 - [Calendar](#calendar)
 - [Camera](#camera)
 - [Clock/Alarm](#clockalarm)
-- [Email](#email)
+- [Email](./apps/email.md)
 - [Feed Reader](#feed-reader)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
@@ -62,11 +62,6 @@ List of high quality Android apps which respect user autonomy and privacy. For t
 ## Clock/Alarm
 - [Clock](https://github.com/BlackyHawky/Clock)  🟩
 - Clock You 🟩 [🅶 ](https://github.com/you-apps/ClockYou)
-
-## Email
-- Web apps
-- Official provider app 
-- [Thunderbird](https://github.com/thunderbird/thunderbird-android) 🟩
 
 ## Feed Reader
 - [Read You](https://github.com/Ashinch/ReadYou) 🟩
