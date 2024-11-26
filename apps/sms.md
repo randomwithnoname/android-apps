@@ -1,4 +1,4 @@
-Legacy calls and texts [should be avoided](https://grapheneos.org/faq#:~:text=Legacy%20calls%20and,doomed%20to%20failure). You should instead use secure messaging apps with the Signal protocol implemented properly when possible.
+Legacy calls and texts [should be avoided](https://grapheneos.org/faq#:~:text=Legacy%20calls%20and,doomed%20to%20failure). You should instead use [secure messaging apps](./secure-messaging.md) with the Signal protocol implemented properly when possible.
 
 Google Messages is the ONLY app with end-to-end encrypted RCS support. 
 
