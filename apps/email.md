@@ -1,0 +1,1 @@
+Email should be avodoed for the purposes of any sensitive communications. Rather than switching to a privacy-focused provider to try and achieve privacy, convince people to switch to a [secure messaging](./secure-messaging.md) app instead.
