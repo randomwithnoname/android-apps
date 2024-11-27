@@ -1,0 +1,1 @@
+FUTO is a company that's trying to exert control over open source and profit from it while publishing software they pretend is open source but in reality has incredibly restrictive non-open-source licensing. It harms real open source projects that can be used by real open source projects like GrapheneOSM FUTO Keyboard and other new FUTO apps are source available, not open source.
