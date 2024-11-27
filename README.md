@@ -14,6 +14,7 @@ List of high quality Android apps which respect user autonomy and privacy. For t
 
 🅶 = GitHub link
 
+[Source code status](./source-code-status/README.MD)
 
 
 ### Categories
